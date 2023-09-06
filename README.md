@@ -1,5 +1,4 @@
-# BeckhoffTwinCATBSDHypervisor
-Beckhoff TwinCAT BSD Hypervisor Example Configs
+# Beckhoff TwinCAT BSD Hypervisor Example Configs
 
 Beckhoff github: https://github.com/Beckhoff/TCBSD_Hypervisor_Samples
 
